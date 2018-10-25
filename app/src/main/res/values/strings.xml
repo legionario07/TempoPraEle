@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Contagem pra Ele</string>
-    <string name="title_activity_main">Contagem Pra Ele</string>
+    <string name="app_name">Contagem para Ele</string>
+    <string name="title_activity_main">Contagem Para Ele</string>
     <string name="title_activity_configuracao">Configuração</string>
 </resources>
